@@ -13,9 +13,9 @@ boxjs链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task
 
 //请先确定boxjs已经存在ck，想要导出哪个值，就设置为1
 
-const body=8
-const timeurl=8
-const timeheader=8
+const body=1
+const timeurl=1
+const timeheader=1
 const GG=''//默认为换行，也可以将需要隔开的符号填写在''内
 
 
